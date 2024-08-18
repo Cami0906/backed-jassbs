@@ -36,3 +36,11 @@ const UserSchema = new Schema({
 const UserModel = model('User', UserSchema);
 
 module.exports = UserModel;
+  //{
+//	"name": "Carlos",
+//	"username": "Carlos",
+//	"lastName": "Martinez",
+//	"password": "clave",
+//	"phone": 3007777888,
+//	  "email": "carlos1111@gmail.com"
+ // }
